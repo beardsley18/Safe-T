@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Safe-T</string>
+    <string name="button_edit_contacts">Edit\nEmergency Contacts</string>
+    <string name="button_send_location">Send Location to\nEmergency Contacts</string>
+</resources>
