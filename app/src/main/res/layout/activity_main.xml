@@ -7,6 +7,20 @@
     tools:context="csce462.safe_t.MainActivity"
     android:weightSum="1">
 
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/LinearLayout01"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        app:cameraZoom="15"
+        app:cameraTargetLat="30.6167359"
+        app:cameraTargetLng="-96.3372577"
+        app:uiCompass="true"/>
+
     <LinearLayout
         android:id="@+id/LinearLayout01"
         android:layout_height="wrap_content"
@@ -20,7 +34,7 @@
             android:layout_weight="1"
             android:background="@color/colorPrimary"
             android:onClick="editContacts"
-            android:text="@string/button_edit_contacts"
+            android:text="@string/edit_emergency_contacts"
             android:textColor="@android:color/white"/>
 
         <Button
@@ -30,7 +44,7 @@
             android:layout_weight="1"
             android:background="@color/colorPrimary"
             android:onClick="panic"
-            android:text="@string/button_send_location"
+            android:text="@string/send_location"
             android:textColor="@android:color/white"/>
     </LinearLayout>
 

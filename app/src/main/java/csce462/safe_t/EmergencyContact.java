@@ -6,11 +6,18 @@ package csce462.safe_t;
 
 public class EmergencyContact {
 
-    public String name;
-    public int phone;
+    private String name;
+    private String phone;
+    private String email;
 
-    public EmergencyContact(String n, int p){
+    public EmergencyContact(String n, String p, String e){
         name = n;
         phone = p;
+        email = e;
+    }
+
+    @Override
+    public String toString(){
+        return name + '\n' + phone + '\n' + email;
     }
 }

@@ -4,24 +4,43 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="csce462.safe_t.EditContacts">
+    tools:context="csce462.safe_t.EditContacts"
+    android:weightSum="1">
 
-    <Button
-        android:id="@+id/button_add_contacts"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:background="@color/colorPrimary"
-        android:onClick="addNewContact"
-        android:text="@string/button_add_contacts"
-        android:textColor="@android:color/white"
-        android:layout_alignParentBottom="true"/>
-
-    <TextView
-        android:id="@+id/sampleTextView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
+    <ListView
+        android:id="@+id/list_view_contacts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/LinearLayout02"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true" />
+
+    <LinearLayout
+        android:id="@+id/LinearLayout02"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/button_add_contacts"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:onClick="addNewContact"
+            android:text="@string/add_new"
+            android:textColor="@android:color/white"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/button_main_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:onClick="mainMenu"
+            android:text="@string/main_menu"
+            android:textColor="@android:color/white"
+            android:layout_weight="1"/>
+    </LinearLayout>
 
 </RelativeLayout>

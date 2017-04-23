@@ -2,6 +2,528 @@
 <items version="2" >
 
     <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\504f84c31182cb41e15cd60f735c5840a0024fe7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dd012829e9efdd53e1c86bdfd88d6181773d9b9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\5d755c21c664586b3a8686fd4b81e937fa52c647\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e2675624b7f33e726ac9088a01834fb6646fd91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\afe0c0f2dc3e43adc3a6addc792ed75293c8c756\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6781d7bb53e1a4fdff06beb1687e311a18d6c0ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sarah\.android\build-cache\04415945fd97a9369601fbe5577f6a30f855a042\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\pre-dexed\debug\classes_34f2ca83ac2da1345285614e5283dc7580ad08e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sarah\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7420a365b52afae3773fad2cdbe9b6f37013da71.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\f9a7fee5ca01e85aacc80b677cc36d6e1f9eb773\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3457a3a4e0f695edd9de822aef682178d743295\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\c026d36a79d8c3a5e5b1a6f703535c6576e8d702\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca046b46d5f20bed4f648cc501833d966b644e32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\65bef682381f96e772334c105584b960ecdee31b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_978ed1f92b1be3f5ab4235b36776bb60c78bf028\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\144ddc7a022b344a5371878a40a6c502d426cb2b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b09258c2879f9a07208ec8065070a11b447fb35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\e79627a5e4af69398b4064b8a69533de03d5ca78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acac164d2ee8626c428f5df0cd624a75650c49d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\70b4299bdce03faedbb02040477ceca30ef63e24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_016b9c7195033465704167f74f4f2291f436cadb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0910b89a5c2691d311678af68965882c7e70406e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\918c2516538960367b182e1c73dc5da5970fbed7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e606829032f8822fa7e026880b8587eff5a9aaa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\64a12164022f860a1b1f1a9d533c0b682be3f48a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30a37d1421d938435d690819fd17d69183a0bbd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\0cf399821c32ff2debc21407e2f85e451180d559\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_578e545faa7b9055857c21f8953bd99094d08a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\0b7b82a1755756a902a479cbc1ab404121f441bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a32e67d67abdf7dd76c7b2a3a730b239e1547aec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\8c4e7c28abbfc2b04495d9209caad80dc68b0b5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05c794809ed6aff47018c4ca92b30eb2c0177121\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\b22fe9c465b6edc231beeaa863c56e4aec36a453\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fba1808ae0b63982e8a5ab5b13ed21c8762b81b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\c7ae811bb73c3139ad25fb2f2f5b0a82eb88d1d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45389a49f2a88fb5b643cef52510b670cb0e5602\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\aa7c938c075c6dfe98b88d214230c20bf6370031\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_677f8c0e501da2f694a53f2ef4a184802275b2eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\1ba2fb4f2166facda3ac3c831f9d24d88250078f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50f4a996d2a1ba75bf5cd2f258eda3c33d32581c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\082e727e1a0f888d174640fbf0eb65abb725a841\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cce8b3e98f71ec9d5f5fdf3dac8a3fd6eb8b31db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\52c8431161eb9bbe152470b44d6120c374739a3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1476020be6b3b675ab10215f030c26d57adb0629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\08f414255f50c8e3c20df6d35764a81cc676ca87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c26e4c1605550ab6f64c1afc47fcadee1f4c194\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\c7b2c2a24abece5e2919b25fe7c861811a562a8e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8fe7591a6f461105f3b843381fbb1259e2843a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\96653901240b3f92fcd6090c0a19710a3b407011\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98648514d5208b948adab718d2457d5f7bcc2e21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\bd19131526a4a05270e011c6cc84d9b4e2434af0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a00c0927bdd788b9366742404ae214c9c97be914\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\ba14501190245354eb82796d656d50f074402706\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f284e90a2152aef5cdf7064aa0b658691f404c9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\180bd5a7c71b994152781501493a83078e48bf88\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0474030149e97d2c8331bf9920c8987a90442594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\34eb46bb93a524a19d32199bdede0dd2c8b0aa3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07087a0451f2a08135f67e23a299f3044b65c35e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\e937a93eb1901b792d2f86882fd72eff48afd984\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19a13069a3c81a59892f658e64fa07209cd5a06e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\8fd12440a829e33c601d49def35dde620830a87b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_024fb1ddc4a42610b734f5b95dd66491d73a5f86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\0fc012ea53e54763f1e9875bf34e2e56a3a9151a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4f775c79f327aeee38a7bcf3f38fdf9b916b39f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e734f5cfea7147b315b89ea0f2155262dd2522c">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6c034c879083fd6a8280595652aa69b333a52b4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\ca09948bb265dd793bbb971ffe07ec7073a5bbae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e8589a64042760e051c551565867186fd0c0754\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\29a24c43e78a0208b184a691ac2ef12dba4fbb87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da2a4ea6896870220aa645c85704f3bf6fdbc693\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\67a044b2712abf63fa8370d9a9381310e66ef5b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d36b8265025957c9bff0ebe3a8d8f18706b9d23c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\82a9b2ca5da2a5e18e7891111cd28430063c6ab9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61948263598eda3c11b34b0181052f46fb525f5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_29f66cf591758b6c3f640eb49b05e9425ec5b60d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\785b3c5f323ad5ce4ed1fa24cbe1cd6237ab07d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2a46288eb72b4c1c1c3e95ae374f7029fe04ab0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\90c2cb6b85b821662bfea23e6e418857de94c0e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06e9eb2ea9d1bda05d3087bb2c8dffb451078241\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sarah\.android\build-cache\fec832a1102f54f50640e9b95a0a7b989feca298\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\pre-dexed\debug\classes_add91a5a17e5b9df207a9e739ea50d514a1ede03.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\3c7228e858376a777bd08fef41f5b1a8eb115b8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e57647746c98c8b9f927b084c63edb08ef870727\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\d2bd902aa69cf189e4345fc053a00a0f1908182f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_331faf2641db156f4a24c6e212da7d11ced58712\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\08f414255f50c8e3c20df6d35764a81cc676ca87\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_f26ada3dd9f8aeb486fdc4bc86ce093218a16b74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\6b57ef0460474ff9c45145d49d7fa18f0b179880\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8456f01b759d83f7b182bd206c6dcc3f38188b5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\44ce8d52cfb3dae74ae652bf9b287799f9ed8641\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1d873c723903670f4411cac0e4786000a6b5302\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\08556edc164bec415a2602fd7ca1629d2fbfa7be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd2c7dbe22e17706c648ba479e102876187af795\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sarah\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_00b4297c631d98e04db3b880fe48c7aa79518555.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\90dcb6880c04d415e90769af375db79e38595131\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b74eee54a2315f1bf71e102f553606e6da7358cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sarah\.android\build-cache\975bdb7d797a0a539c33f0ed89ea5567bc20442b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\pre-dexed\debug\classes_e749ab843e0dd557e19ee3ea98d3d027a45fcc80.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\4c1d01210fea7ea9d807a8c528f5489b2d8a7490\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_15538291a77ce3ae3b878972eb91d10f5795b2db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\cc4fd2e482d5d0859dc32d18e5f0f2091dcdec31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_386c16512dea8bd5e96a5312c7b8abe4d557761f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\0854981ceeaf31f73430fa66cb48022f94d5173d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_256ac89283c4da7522588c9dae2677be99779e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\d2192e0985124182648644a5caedf7082ff3c578\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9b28479b94fd905e492babf3763f3a1742f9e0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\4629257d4d6bceccf5d24d725ae11fcae1c6f8c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ed4e2c7e78774c8f5e0605bd5505f7587690106\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\668456f37c31923514e563ac1ff49c7a6d946709\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a400398628ddcc6f6c96ca2a5bbd434e0ecd7bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\cdb0d0301aa935e2d75bc967f5d074894c516fcb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d29f954372312e02b663c636e596a67fb7b5bcbc\classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="C:\Users\Sarah\.android\build-cache\fec832a1102f54f50640e9b95a0a7b989feca298\output\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="false"
@@ -29,67 +551,31 @@
         <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\pre-dexed\debug\classes_706211442369767df09276527102afe035884be8.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Sarah\.android\build-cache\fec832a1102f54f50640e9b95a0a7b989feca298\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\pre-dexed\debug\classes_add91a5a17e5b9df207a9e739ea50d514a1ede03.jar" />
-    </item>
-    <item
         is-multidex="true"
-        jar="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Sarah\.android\build-cache\483dd8870dce966111af65692fcc54269575b5fe\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="1209b3e74cead6d5ca657a3b83fbc1165c7dd55d">
-        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6c034c879083fd6a8280595652aa69b333a52b4c\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Sarah\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_00b4297c631d98e04db3b880fe48c7aa79518555.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Sarah\.android\build-cache\04415945fd97a9369601fbe5577f6a30f855a042\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\pre-dexed\debug\classes_34f2ca83ac2da1345285614e5283dc7580ad08e2.jar" />
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8feb1baebdbfec96ada04fee5a34fd8b2689df2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Sarah\.android\build-cache\1497f502b4d72af8c81a98c46fc978d442fbdc9c\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0910b89a5c2691d311678af68965882c7e70406e\classes.dex" />
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5aad3ec21307df225fef7018a5b41f13a4d6caa\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Sarah\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Sarah\.android\build-cache\5b26a5c96f9cac2c733daf62ee560edbb829239a\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7420a365b52afae3773fad2cdbe9b6f37013da71.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Sarah\.android\build-cache\975bdb7d797a0a539c33f0ed89ea5567bc20442b\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\pre-dexed\debug\classes_e749ab843e0dd557e19ee3ea98d3d027a45fcc80.jar" />
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="C:\Users\Sarah\Documents\Safe-T\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_982a413960f184eabfc2f622a5ac9465240a7a47\classes.dex" />
     </item>
 
 </items>

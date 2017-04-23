@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">Safe-T</string>
-    <string name="button_edit_contacts">Edit\nEmergency Contacts</string>
-    <string name="button_send_location">Send Location to\nEmergency Contacts</string>
-    <string name="button_add_contacts">Add New Emergency Contact</string>
+    <string name="edit_emergency_contacts">Edit\nEmergency Contacts</string>
+    <string name="send_location">Send Location to\nEmergency Contacts</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone #</string>
+    <string name="email">Email Address</string>
+    <string name="submit">Submit</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="add_new">Add New</string>
+    <string name="add_new_emergency_contact">Add New Emergency Contact</string>
 </resources>
