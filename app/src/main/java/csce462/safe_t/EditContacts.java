@@ -25,6 +25,7 @@ public class EditContacts extends AppCompatActivity {
     private static final String TAG = "EditContactsActivity";
     public static final String FILENAME = "contacts";
     private ArrayList<EmergencyContact> contactsArrayList;
+    TextView emergencyContactsText;
     ListView contactsList;
     Button addContacts;
     Button mainMenu;
@@ -34,6 +35,7 @@ public class EditContacts extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_edit_contacts);
 
+        emergencyContactsText = (TextView) findViewById(R.id.text_view_emergency_contacts);
         contactsList = (ListView) findViewById(R.id.list_view_contacts);
         addContacts = (Button) findViewById(R.id.button_add_contacts);
         mainMenu = (Button) findViewById(R.id.button_main_menu);
@@ -118,7 +120,8 @@ public class EditContacts extends AppCompatActivity {
     }
 
     public void mainMenu(View view){
-        Intent intent = new Intent(this, MainActivity.class);
-        startActivity(intent);
+        //Intent intent = new Intent(this, MainActivity.class);
+        //startActivity(intent);
+        finish();
     }
 }

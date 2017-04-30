@@ -7,6 +7,9 @@
     <string name="email">Email Address</string>
     <string name="submit">Submit</string>
     <string name="main_menu">Main Menu</string>
+    <string name="map_key">Green marker is your current location\nRed markers are high crime areas\nBlue markers are safe areas</string>
     <string name="add_new">Add New</string>
     <string name="add_new_emergency_contact">Add New Emergency Contact</string>
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="connect_bluetooth">Connect Bluetooth</string>
 </resources>

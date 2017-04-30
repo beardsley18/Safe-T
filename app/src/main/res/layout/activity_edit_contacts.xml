@@ -7,14 +7,23 @@
     tools:context="csce462.safe_t.EditContacts"
     android:weightSum="1">
 
+    <TextView
+        android:id="@+id/text_view_emergency_contacts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:paddingBottom="2sp"
+        android:text="@string/emergency_contacts"
+        android:textSize="24sp"/>
+
     <ListView
         android:id="@+id/list_view_contacts"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above="@+id/LinearLayout02"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true" />
+        android:layout_below="@+id/text_view_emergency_contacts"/>
 
     <LinearLayout
         android:id="@+id/LinearLayout02"

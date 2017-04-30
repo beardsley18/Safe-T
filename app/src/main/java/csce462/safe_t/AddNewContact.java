@@ -48,7 +48,8 @@ public class AddNewContact extends AppCompatActivity {
             e.printStackTrace();
         }
 
-        Intent intent = new Intent(this, EditContacts.class);
-        startActivity(intent);
+        //Intent intent = new Intent(this, EditContacts.class);
+        //startActivity(intent);
+        finish();
     }
 }

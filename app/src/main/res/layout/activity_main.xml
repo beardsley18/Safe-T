@@ -7,19 +7,33 @@
     tools:context="csce462.safe_t.MainActivity"
     android:weightSum="1">
 
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
     <fragment
         android:id="@+id/map"
         android:name="com.google.android.gms.maps.SupportMapFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_above="@+id/LinearLayout01"
+        android:layout_above="@+id/text_view_map_key"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
         app:cameraZoom="15"
-        app:cameraTargetLat="30.6167359"
-        app:cameraTargetLng="-96.3372577"
         app:uiCompass="true"/>
+
+    <TextView
+        android:id="@+id/text_view_map_key"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/LinearLayout01"
+        android:text="@string/map_key"/>
 
     <LinearLayout
         android:id="@+id/LinearLayout01"

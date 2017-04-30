@@ -16,6 +16,14 @@ public class EmergencyContact {
         email = e;
     }
 
+    public String getPhone(){
+        return phone;
+    }
+
+    public String getEmail(){
+        return email;
+    }
+
     @Override
     public String toString(){
         return name + '\n' + phone + '\n' + email;
